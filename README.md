@@ -1,11 +1,11 @@
 # scheduler
 An idea of how operating systems schedule processes. 
 
-##Description
+## Description
 These scheduling algorithms find the average turnaround time and average response time for each approach. 
-###FCFS
+### FCFS
 First Come First Serve
-###SJF
+### SJF
 Shortest Job First 
-###STCF
+### STCF
 Shortest Time Completion First using a priority queue. 
